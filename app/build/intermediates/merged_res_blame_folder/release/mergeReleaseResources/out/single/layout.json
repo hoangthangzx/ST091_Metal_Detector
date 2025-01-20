@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\custom_dialog_noti.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\custom_dialog_noti.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\item_theme.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\item_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_language.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_select_theme.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_select_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\custom_dialog_note.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\custom_dialog_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\item_intro.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\item_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_gold_detecter.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_gold_detecter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\dialog_rate.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\dialog_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\fragment_coinlibrary.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\fragment_coinlibrary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_coinrecognition.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_coinrecognition.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\item_coin.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\item_coin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\fragment_scan.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\fragment_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\dialog_saving.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\dialog_saving.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_metal_detector.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_metal_detector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_more.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_about_coin.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_about_coin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_interact.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_interact.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:/layout/activity_about.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-92:/layout/activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\dialog_no_coin.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\dialog_no_coin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\nointernet.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\nointernet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\activity_permission.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\activity_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\custom_dialog_permission.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\custom_dialog_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-mergeReleaseResources-90:\\layout\\item_language.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.metalsensor.gold.detector.finder.app-main-92:\\layout\\item_language.xml"
+    }
+]
